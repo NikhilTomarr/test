@@ -2,15 +2,14 @@
   {
     "tmdb_id": 1306368,
     "title": "The Rip",
-    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/output/index.mpd?",
-    "drm_license": "2db0cd9cb0685309b48e322c83192bda:e13btPiWUKmrAgPyzT3CrR9Y3gupxsz5o4d",
+    "stream_url": "https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd",
+    "drm_license": "fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d",
     "drm_scheme": "clearkey",
-    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0",
+    "user_agent": "Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29",
     "referer": "",
     "media_type": "movie",
     "origin": "",
-    "cookie": "__hdnea__=st=1769171672~exp=1769258072~acl=/*~hmac=a6325387a3b4db0d08a6d2465ae3515a0e90c29e3bdacc2a06b36669073fb4c5"
-  },
+    "cookie": "hdntl=exp=1769260366~acl=*sshindi*~id=c84997a6220de7b372cddea7c8c787a7~data=hdntl~hmac=82e326971583f2f2d179c874abd28d1b2b12d16d40f147d44ca8aa66fb865555"
   
   {
     "tmdb_id": 1043197,
