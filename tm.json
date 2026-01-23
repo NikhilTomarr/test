@@ -36,8 +36,10 @@
   {
     "tmdb_id": 224372,
     "title": "ana",
-    "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
-    "media_type": "tv"
+    "stream_url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
+    "media_type": "tv",
+    "cookie": "hdntl=exp=1769258903~acl=%2f*~id=136b33bb-ab6e-4f55-afdd-7fddcde7af1b~data=hdntl~hmac=31uvcoaTNJkTPbcWXRrBUnPYFXf8nnmvd89c2041f070fb5b6f6b038b9176aed5"
   }
   
 ]
