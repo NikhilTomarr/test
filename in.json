@@ -1,0 +1,52 @@
+[
+  {
+    "tmdb_id": 1306368,
+    "title": "The Rip",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Vande_Gujarat_1_BTS/output/index.mpd",
+    "drm_license": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=92b403e4f74f5ec39055d529a50d609e&key=1260340bf19651f39a49e23deedf9523",
+    "drm_scheme": "clearkey",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0",
+    "referer": "",
+    "media_type": "movie",
+    "origin": "",
+    "cookie": "__hdnea__=st=1769217140~exp=1769303540~acl=/*~hmac=5937cCbXgD8G2ZEBqnNKQWZekmqHSMuagtc6dd8d49b671b99f825a0b09913a33"
+  },
+  
+  {
+    "tmdb_id": 1043197,
+    "title": "dust bunny",
+    "stream_url": "https://istreamcdn.com/mcdn/MBlock.php?id=10365012085363",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referer": "",
+    "media_type": "movie"
+  },
+
+  {
+    "tmdb_id": 66732,
+    "title": "cam",
+    "stream_url": "https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8",
+    "cookie": "hdnea=exp=1769236202~acl=/*~id=204bdacde3827f40d761a2bfdf4abf74-1769193000222~hmac=6ebcb4bec849cd9b44dacfb900b83af4cd0ff6cdb61aaebed617122af8bb6877",
+    "media_type": "tv"
+  },
+
+  {
+    "tmdb_id": 7451,
+    "title": "xxx",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Vande_Gujarat_1_BTS/output/index.mpd?",
+    "drm_license": "92b403e4f74f5ec39055d529a50d609e:1260340bf19651f39a49e23deedf9523",
+    "drm_scheme": "clearkey",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0",
+    "referer": "",
+    "media_type": "movie",
+    "origin": "",
+    "cookie": "__hdnea__=st=1769217140~exp=1769303540~acl=/*~hmac=5937cCbXgD8G2ZEBqnNKQWZekmqHSMuagtc6dd8d49b671b99f825a0b09913a33"
+  },
+  
+  {
+    "tmdb_id": 224372,
+    "title": "ana",
+    "stream_url": "https://f15f16aG1HHmYAsDcnxBWqrEUoEYK1CveL4.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNTHR/index.m3u8",
+    "media_type": "tv"
+  }
+  
+]
